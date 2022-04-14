@@ -15,4 +15,4 @@ deploy:
   keep-history: true
   on:
     branch: main
-  local-dir: public工程图
+  local-dir: public
